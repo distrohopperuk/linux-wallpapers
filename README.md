@@ -11,3 +11,5 @@ Feel free to use, share, edit.
 ![solus](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/25c892cc-bc1b-43ac-b240-115b602548fc)
 ### Debian (debian tux)
 ![Debian-Tux](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/507d9490-7bfb-4b5d-9a89-4abb6b422de7)
+### OpenSUSE (fuzzy monitor mode)
+![openuse-monitor-fuzzy](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/d9074e49-27fb-4e43-985a-0deb009a19ae)
