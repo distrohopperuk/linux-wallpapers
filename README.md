@@ -11,6 +11,8 @@ Feel free to use, share, edit.
 ![openuse-monitor-fuzzy](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/d9074e49-27fb-4e43-985a-0deb009a19ae)
 ### Kali-Linux wallpaper
 ![kali-wallpaper](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/7c37c4f4-df24-4796-82f6-bf2b7b2f5ab2)
+### DEEPIN (monitor-mode)
+![deepin(monitor-mode)](https://github.com/distrohopperuk/linux-wallpapers/assets/161962528/e2e7de87-c18f-43a1-ad00-1a2000547d57)
 ### Solus Linux (stranded deep)
 ![solus2](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/ecef245d-44dd-4c40-9ca8-908f89fec9e5)
 ### Solus Linux (monitor mode)
